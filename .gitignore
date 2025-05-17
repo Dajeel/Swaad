@@ -40,4 +40,4 @@ app-example
 
 */node_modules/**/*
 
-firebase.utils.js
+src/services/firebase/firebase.utils.js
