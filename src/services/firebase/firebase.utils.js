@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB988kPz8PZV2E1tFZ5nO0XBOy99zOoS9g",
+  apiKey: "<Removed Secret Key, replace it with your own>",
   authDomain: "swaadley.firebaseapp.com",
   projectId: "swaadley",
   storageBucket: "swaadley.firebasestorage.app",
